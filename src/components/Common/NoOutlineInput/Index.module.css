@@ -1,0 +1,17 @@
+.noOutLine {
+    font-family: Source Serif Pro;
+    font-size: 15px;
+    border: none;
+    opacity: 0.5;
+    width: 85%;
+}
+
+.noOutLine:focus {
+    outline: none;
+}
+
+.noOutLine::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 15px;
+    font-weight: 600;
+}

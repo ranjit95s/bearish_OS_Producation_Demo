@@ -1,0 +1,79 @@
+.displayflex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.marginTop>div:first-child {
+    margin-top: 0px !important;
+}
+
+.displayflexBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 25px;
+    position: relative;
+}
+
+.mainBox {
+    width: 175px;
+    height: 35px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.mainflexBox {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.flexBox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: row;
+}
+
+.imagewidth img {
+    width: 25px;
+    height: 25px;
+}
+
+.imagewidth {
+    width: 175px;
+    padding: 6px 8px;
+    display: contents;
+}
+
+.textsize {
+    font: normal normal normal 18px/25px Source Serif Pro;
+    font-size: 18px;
+    padding-left: 5px;
+    white-space: nowrap;
+}
+
+.moreimage img {
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    margin-left: auto;
+    width: 25px;
+    height: 25px;
+}
+
+.dateText {
+    font: normal normal 300 13px/17px Source Serif Pro;
+    white-space: nowrap;
+}
+.headerimg{
+    flex-direction: row;
+    margin-left: auto;
+    gap: 56px;
+    width: 394px;
+    margin-right: 58px;
+    overflow: scroll;
+}

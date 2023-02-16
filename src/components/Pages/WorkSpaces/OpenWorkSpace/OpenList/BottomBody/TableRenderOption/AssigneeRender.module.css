@@ -1,0 +1,19 @@
+.button {
+    background-color: #a7aaff;
+    width: 125px;
+    height: 40px;
+    border: 1px solid #E9EDF2;
+    box-shadow: none;
+    font: normal normal 500 18px/25px Source Serif Pro;
+}
+
+.button:hover {
+    box-shadow: none;
+    background-color: #a7aaff;
+}
+
+.mainContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

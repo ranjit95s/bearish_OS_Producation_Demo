@@ -1,0 +1,7 @@
+<svg id="Close" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_close_circled_background" data-name="Light 1px/close_circled background" width="25" height="25" opacity="0.004"/>
+  <g id="Group" transform="translate(2.083 2.083)">
+    <path id="Union" d="M.1.107A.374.374,0,0,0,.1.623l1.862,1.93L.1,4.484A.374.374,0,0,0,.1,5,.343.343,0,0,0,.6,5L2.462,3.069,4.323,5a.343.343,0,0,0,.5,0,.374.374,0,0,0,0-.516L2.959,2.553,4.821.623a.374.374,0,0,0,0-.516.343.343,0,0,0-.5,0L2.462,2.037.6.107A.343.343,0,0,0,.1.107Z" transform="translate(7.955 7.863)" fill="red"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M10.417,20.833A10.417,10.417,0,1,1,20.833,10.417,10.428,10.428,0,0,1,10.417,20.833Zm0-19.792a9.375,9.375,0,1,0,9.375,9.375A9.386,9.386,0,0,0,10.417,1.042Z" fill="red"/>
+  </g>
+</svg>

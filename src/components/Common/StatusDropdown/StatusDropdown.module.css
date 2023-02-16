@@ -1,0 +1,41 @@
+.selectView {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.selectTab {
+    width: 133px;
+    height: 30px;
+    align-items: center;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    cursor: pointer;
+    /*opacity: 0.5;*/
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.selectName {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 20px;
+    overflow: hidden;
+    font-size: 18px;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.dropdown {
+    width: 133px;
+    align-items: center;
+    z-index: 10;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.statusItem {
+    justify-content: space-between;
+    flex-direction: row;
+    cursor: pointer;
+}

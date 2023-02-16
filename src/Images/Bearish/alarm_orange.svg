@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Group_2916" data-name="Group 2916" transform="translate(-1153 -533)">
+    <rect id="Light_1px_alarm_background" data-name="Light 1px/alarm background" width="25" height="25" transform="translate(1153 533)" fill="#fff" opacity="0"/>
+    <g id="Group" transform="translate(1155.476 536.509)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M8.333,16.667a8.333,8.333,0,1,1,8.333-8.333A8.343,8.343,0,0,1,8.333,16.667Zm0-15.625a7.292,7.292,0,1,0,7.292,7.292A7.3,7.3,0,0,0,8.333,1.042Z" transform="translate(1.69 1.699)" fill="#e2875e"/>
+      <path id="Vector_479_Stroke_" data-name="Vector 479 (Stroke)" d="M1.042.521V4.256a.521.521,0,0,0,.153.368L2.972,6.4a.521.521,0,0,1-.737.737L.458,5.361A1.563,1.563,0,0,1,0,4.256V.521a.521.521,0,0,1,1.042,0Z" transform="translate(9.503 5.345)" fill="#e2875e"/>
+      <path id="Ellipse_135" data-name="Ellipse 135" d="M4.373.064a11.458,11.458,0,0,0-4.309,4.3.5.5,0,0,0,.216.692.539.539,0,0,0,.709-.22A10.422,10.422,0,0,1,4.843.989.539.539,0,0,0,5.064.28.5.5,0,0,0,4.373.064Z" transform="translate(0 0.001)" fill="#e2875e"/>
+      <path id="Ellipse_136" data-name="Ellipse 136" d="M4.376,5.051A11.458,11.458,0,0,1,.064.745.5.5,0,0,1,.278.056a.536.536,0,0,1,.7.219A10.427,10.427,0,0,0,4.844,4.13a.536.536,0,0,1,.22.7A.5.5,0,0,1,4.376,5.051Z" transform="translate(20.048 5.114) rotate(180)" fill="#e2875e"/>
+    </g>
+  </g>
+</svg>

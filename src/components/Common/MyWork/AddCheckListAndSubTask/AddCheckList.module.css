@@ -1,0 +1,5 @@
+.rowMain {
+    gap: 22px;
+    max-height: 140px;
+    overflow-y: scroll;
+}

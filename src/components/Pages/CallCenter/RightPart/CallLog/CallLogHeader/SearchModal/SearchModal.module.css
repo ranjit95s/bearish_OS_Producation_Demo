@@ -1,0 +1,46 @@
+.modalMain {
+}
+
+.search {
+    width: 95%;
+    border: none;
+    font-family: Source Serif Pro, Regular, serif;
+    font-size: 15px;
+}
+
+.search::placeholder {
+    font-family: Source Serif Pro, Regular, serif;
+    font-size: 15px;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.userIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E9EDF2;;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.listMain {
+    max-height: 170px;
+    overflow-y: scroll;
+    gap: 20px;
+}
+
+.font {
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.userName {
+    font-size: 16px;
+    opacity: 0.5;
+}

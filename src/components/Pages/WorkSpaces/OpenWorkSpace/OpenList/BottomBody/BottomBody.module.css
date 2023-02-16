@@ -1,0 +1,46 @@
+.mainContainer{
+    position: relative;
+    width: 100%;
+}
+.RowBtn{
+    position: absolute;
+    bottom: -154px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+.headerMain {
+    font-size: 15px;
+    font: normal normal normal 15px/21px Source Serif Pro;
+    font-weight: normal;
+    display: flex;
+}
+
+.headerIcon {
+    margin-right: 15px;
+}
+.headerupArrow{
+    display: flex;
+}
+.headerStack{
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 20px;
+}
+.createBtn {
+    font: normal normal normal 18px/21px Source Serif Pro;
+    width: 125px;
+    height: 40px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    background-color: #d7f8e7;
+    border-radius: 5px;
+}

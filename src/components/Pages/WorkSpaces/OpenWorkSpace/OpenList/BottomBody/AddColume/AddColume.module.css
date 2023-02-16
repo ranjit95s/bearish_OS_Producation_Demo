@@ -1,0 +1,14 @@
+.mainContainer {
+    position: absolute;
+    top: 21.5px;
+    right: -39px;
+    background: #e9edf2;
+    height: 30px;
+}
+
+.listButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}

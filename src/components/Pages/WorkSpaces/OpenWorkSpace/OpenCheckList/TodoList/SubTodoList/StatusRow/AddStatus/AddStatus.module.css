@@ -1,0 +1,21 @@
+.boxposition {
+    position: relative;
+    top: 100px;
+}
+.fontsize {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: rgba(0, 0, 0, 0.5);
+}
+.imgWidth img{
+    width: 25px;
+    height: 25px;
+}
+.imgWidth {
+    min-width: 0 !important;
+}
+.boxflex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}

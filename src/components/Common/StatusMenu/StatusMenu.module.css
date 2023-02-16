@@ -1,0 +1,51 @@
+.optionFlex {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.menuText {
+    font: normal normal 300 11px/15px Source Serif Pro;
+    color: #000000;
+    margin-left: 10px;
+}
+
+.optionBtn {
+    display: flex;
+    flex-direction: row;
+}
+
+.pickericon {
+    width: 12px;
+    height: 12px;
+}
+
+.mainContainer {
+    margin-bottom: 10px;
+}
+
+.addIcon {
+    width: 15px;
+    height: 15px;
+}
+
+.addContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.addBtn {
+    display: flex;
+    flex-direction: row;
+}
+
+.mainBox {
+    padding: 0px 4px;
+}
+
+.pickerBtn {
+    padding: 0px !important;
+}

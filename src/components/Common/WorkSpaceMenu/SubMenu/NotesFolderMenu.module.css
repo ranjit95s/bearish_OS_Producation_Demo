@@ -1,0 +1,46 @@
+.mainBox {
+    display: flex;
+    justify-content: center;
+
+}
+
+.btncontainer {
+    border: 1px solid #E9EDF2;
+    width: 175px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 5px 10px;
+    cursor: pointer;
+    background-color: transparent;
+    text-align: start;
+}
+
+.nameText {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: #6d6d6d;
+    margin-left: 10px;
+}
+
+.btncontainer:focus {
+    background-color: #d7f8e7;
+}
+
+.movebtn {
+    width: 125px !important;
+    height: 25px !important;
+    background-color: #d7f8e7;
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: #228d56;
+}
+
+.movebtn:hover {
+    background-color: #c3f5db;
+}
+
+.buttonContainer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}

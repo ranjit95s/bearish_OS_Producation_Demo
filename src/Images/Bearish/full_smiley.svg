@@ -1,0 +1,9 @@
+<svg id="Light_1px_laugh" data-name="Light 1px/laugh" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_laugh_background" data-name="Light 1px/laugh background" width="25" height="25" fill="#fff"/>
+  <g id="Group" transform="translate(2.083 2.083)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M10.417,20.833A10.417,10.417,0,1,1,20.833,10.417,10.428,10.428,0,0,1,10.417,20.833Zm0-19.792a9.375,9.375,0,1,0,9.375,9.375A9.386,9.386,0,0,0,10.417,1.042Z"/>
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M5.3,5.209A5.4,5.4,0,0,1,1.382,3.755,4.787,4.787,0,0,1,0,.543.522.522,0,0,1,.522,0h9.549a.521.521,0,0,1,.52.543A4.786,4.786,0,0,1,9.209,3.755,5.4,5.4,0,0,1,5.3,5.209ZM1.1,1.042A3.671,3.671,0,0,0,2.117,3.016,4.382,4.382,0,0,0,5.3,4.166a4.386,4.386,0,0,0,3.179-1.15A3.671,3.671,0,0,0,9.492,1.042Z" transform="translate(5.12 10.938)"/>
+    <path id="Ellipse_202" data-name="Ellipse 202" d="M1.042,2.083A1.042,1.042,0,1,1,2.083,1.042,1.042,1.042,0,0,1,1.042,2.083Z" transform="translate(5.208 6.25)"/>
+    <path id="Ellipse_203" data-name="Ellipse 203" d="M1.042,2.083A1.042,1.042,0,1,1,2.083,1.042,1.042,1.042,0,0,1,1.042,2.083Z" transform="translate(13.542 6.25)"/>
+  </g>
+</svg>

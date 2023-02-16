@@ -1,0 +1,7 @@
+<svg id="Light_1px_upload" data-name="Light 1px/upload" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_upload_background" data-name="Light 1px/upload background" width="25" height="25" fill="#fff" opacity="0"/>
+  <g id="Group" transform="translate(3.646 5.208)">
+    <path id="Path_13_Copy_7_Stroke_" data-name="Path 13 Copy 7 (Stroke)" d="M1.042.521V2.6A1.563,1.563,0,0,0,2.6,4.167H15.1A1.562,1.562,0,0,0,16.667,2.6V.521a.521.521,0,1,1,1.042,0V2.6a2.6,2.6,0,0,1-2.6,2.6H2.6A2.6,2.6,0,0,1,0,2.6V.521a.521.521,0,0,1,1.042,0Z" transform="translate(0 9.896)"/>
+    <path id="Union" d="M10.262,5.575a.521.521,0,0,1-.737,0l-3.8-3.8v8.639a.521.521,0,0,1-1.042,0V1.778l-3.8,3.8A.521.521,0,0,1,.153,4.84L4.84.153a.521.521,0,0,1,.737,0l4.686,4.686A.521.521,0,0,1,10.262,5.575Z" transform="translate(3.648)"/>
+  </g>
+</svg>

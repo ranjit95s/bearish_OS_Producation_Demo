@@ -1,0 +1,82 @@
+.emailPreviewMain {
+    width: 300px;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+}
+
+.userIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E9EDF2;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Source Serif Pro, Semibold, serif;
+}
+
+.senderName {
+    width: 225px;
+    height: 30px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    padding: 0 10px 0 10px;
+    font-weight: 600;
+    justify-content: center;
+    opacity: 0.6;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.subjectLine {
+    height: 30px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-weight: 600;
+    justify-content: center;
+    opacity: 0.6;
+}
+
+.emailDescription {
+    height: 475px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.subject {
+    width: 250px;
+    height: 30px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    justify-content: center;
+}
+
+.mailPageBoxFour {
+    height: 100%;
+    grid-column: 2;
+    grid-row: 1/-1;
+    overflow-y: scroll;
+    position: relative;
+}
+
+.snippetInfo {
+    height: 100%;
+    padding: 5px;
+    word-break: break-word;
+}
+
+.emailMessage {
+    width: 100%;
+    border: unset;
+    padding: 1rem;
+    align-items: center;
+    overflow: scroll;
+    height: 87%;
+}

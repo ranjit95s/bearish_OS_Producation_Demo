@@ -1,0 +1,59 @@
+
+.message {
+    padding: 7px 10px;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.nameIcon {
+    width: 35px;
+    height: 35px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 50%;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.messageText {
+    font-size: 12px;
+    height: 100%;
+}
+
+.typeMessageMain {
+    margin-top: 10px;
+    min-height: 30px;
+    max-height: 100px;
+    flex-direction: row;
+    background-color: #E9EDF2;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.typeMessage {
+    background-color: #E9EDF2;
+    width: 85%;
+}
+
+.sendIcon {
+    height: 100%;
+    padding: 5px;
+    justify-content: flex-end;
+    margin: 0 5px 10px 0;
+}
+
+*.messageInput {
+    width: 100%;
+    min-height: 30px;
+    max-height: 100px;
+    overflow: scroll;
+    outline: none;
+    padding: 5px;
+}
+
+.messageListMain {
+    gap: 10px;
+    height: 100%;
+    overflow-y: scroll;
+}

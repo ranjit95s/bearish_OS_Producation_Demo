@@ -1,0 +1,126 @@
+.mainContainer {
+    width: 260px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 14px 0px;
+    height: 584px;
+    overflow: scroll;
+}
+
+.headContainer {
+    display: flex;
+    justify-content: center;
+    width: 240px;
+    height: 40px;
+    border: 3px solid #E9EDF2;
+    border-radius: 5px;
+    flex-direction: row;
+}
+
+.headerFlex {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 9px;
+}
+
+.addIcon {
+    width: 21px;
+    height: 21px;
+}
+
+.headerName {
+    font: normal normal 600 18px/25px Source Serif Pro;
+}
+
+.createInputContainer {
+    margin-top: 10px;
+    border: 3px solid #E9EDF2;
+    border-radius: 5px;
+    width: 246px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 9px;
+    box-sizing: border-box;
+}
+
+.createBtn {
+    width: 40px;
+    height: 20px;
+    background-color: #d7f8e7;
+    font: normal normal 600 11px/15px Source Serif Pro;
+    color: black;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+.createBtn:hover {
+    background-color: #d7f8e7;
+}
+
+.inputContainer {
+    outline: none;
+    border: none;
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: rgb(94, 94, 94);
+    width: 100%;
+}
+
+.createdContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.createdLeftContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.createdMianContainer {
+    margin-top: 10px;
+    border: 3px solid #E9EDF2;
+    border-radius: 5px;
+    /* width: 240px; */
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 0px 9px;
+}
+
+.menuBtn {
+    width: 21px;
+    height: 21px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+}
+
+.subItemContainer {
+    box-sizing: border-box;
+    height: 60px;
+    width: 246px;
+    border-bottom: 1px solid #E9EDF2;
+    border-left: 1px solid #E9EDF2;
+    border-right: 1px solid #E9EDF2;
+    border-radius: 0px 0px 5px 5px;
+    display: flex;
+    padding: 0px 9px;
+    align-items: center;
+}
+
+.subContainer{
+    display: flex;
+    align-items: center;
+}
+
+.collapseBtn{
+    padding: 0;
+}

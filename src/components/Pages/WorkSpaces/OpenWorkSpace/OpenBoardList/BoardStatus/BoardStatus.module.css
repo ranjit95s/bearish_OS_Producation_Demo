@@ -1,0 +1,7 @@
+.mainflexBox {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}

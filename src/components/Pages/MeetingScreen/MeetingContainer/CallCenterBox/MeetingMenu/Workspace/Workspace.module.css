@@ -1,0 +1,80 @@
+.workspaceMain {
+    width: 300px;
+    height: 325px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.drawerButton {
+    box-shadow: unset !important;
+    background-color: transparent !important;
+}
+
+.drawerIcon {
+    width: 25px;
+    height: 25px;
+}
+
+.drawerListText {
+    font-family: Inter, sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    line-height: 25px !important;
+    white-space: nowrap !important;
+    padding: 0;
+    margin: 0;
+    color: black;
+    white-space: nowrap;
+}
+
+.accodian_list {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+.main_accodian {
+    margin: 7px 15px;
+}
+
+.accodian_summary {
+    height: 5px;
+    border: none;
+    min-height: 30px;
+}
+
+.accodian_summary:hover {
+    border-radius: 5px;
+}
+
+.accodian_summary:focus {
+    border-radius: 5px;
+}
+
+.subRout_accodianDetails {
+    padding: 0 0 0;
+}
+
+.subRout_listItem {
+    padding: 5px 0 !important;
+    margin-top: 15px;
+    height: 30px;
+}
+
+.subDrawerButton {
+    box-shadow: unset !important;
+    justify-content: space-between;
+    background-color: transparent !important;
+    padding-right: 2px !important;
+}
+
+.subDrawerButton:hover {
+    background-color: transparent !important;
+}
+
+.workspaceTitle {
+    font-family: Source Serif Pro, Semibold, serif;
+    font-weight: bold;
+    font-size: 15px;
+}

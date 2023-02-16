@@ -1,0 +1,64 @@
+.mainBoxBg {
+    /* background-color: white; */
+    display: flex;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.squareBox {
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px 12px;
+}
+
+.shareIcon {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 18px;
+    cursor: pointer;
+}
+
+.headername {
+    font: normal normal 600 18px/25px Source Serif Pro;
+}
+
+.rightContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.shareText {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: gray;
+    margin-left: 10px;
+}
+
+.backTypo {
+    font: normal normal normal 15px/21px Source Serif Pro;
+    margin-left: 10px;
+    color: black;
+}
+
+.leftContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.colorpickerBox{
+    margin-left: 65px;;
+}

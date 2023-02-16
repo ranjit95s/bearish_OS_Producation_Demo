@@ -1,0 +1,143 @@
+.toDoMain {
+    height: 590px;
+    overflow-y: auto;
+    gap: 10px;
+    width: 316px;
+}
+
+.today {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Source Serif Pro;
+}
+
+.todayList {
+    background-color: #E9EDF2;
+    padding: 10px 10px 6px 5px;
+    opacity: 0.7;
+}
+
+.pendingList {
+    background-color: #E9EDF2;
+    padding: 10px 10px 6px 5px;
+    opacity: 0.7;
+    position: relative;
+}
+
+.cardMain {
+    gap: 8px;
+    font-family: Source Serif Pro;
+    flex: 1;
+}
+
+.bottomBtn {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.pendingBottomBtn {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    position: relative;
+}
+
+.toDoTitle {
+    flex-direction: row;
+    width: 105px;
+    justify-content: space-between;
+}
+
+.addTask {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.pendingStatusMain {
+    /*position: absolute;*/
+    cursor: pointer;
+    justify-content: center;
+}
+
+.pendingStatus {
+    width: 18px;
+    height: 66px;
+    font-size: 11px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    align-items: center;
+    color: #F2F5F8;
+    font-family: Source Serif Pro;
+    justify-content: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.options {
+    background-color: #E9EDF2;
+    height: 28px;
+    flex-direction: row;
+    gap: 10px;
+    margin: 0 5px;
+}
+
+.pendingOptions {
+    flex-direction: row;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.assignToMain {
+    position: absolute;
+    z-index: 5;
+    width: 150px;
+    height: 165px;
+    background-color: #FFFFFF;
+    margin-top: 190px;
+}
+
+.assignToSearch {
+    width: 95%;
+    border: none;
+}
+
+.assignToSearch::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 11px;
+}
+
+.darkLink {
+    height: 1px;
+    background-color: #E3E3E3;
+    width: 100%;
+}
+
+.searchUserIcon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchUserName {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100%;
+    justify-content: center;
+}
+
+.addTaskMuiModal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

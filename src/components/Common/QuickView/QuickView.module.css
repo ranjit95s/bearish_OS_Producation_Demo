@@ -1,0 +1,22 @@
+.Quick_View_Main {
+    gap: 10px;
+    width: 100%;
+}
+
+.title {
+    font-family: Source Serif Pro;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.header_name {
+    font-family: Source Serif Pro;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.green_line {
+    height: 1px;
+    width: 100%;
+    background-color: #5EE2A0;
+}

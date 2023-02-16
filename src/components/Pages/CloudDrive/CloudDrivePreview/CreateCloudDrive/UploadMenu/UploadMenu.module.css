@@ -1,0 +1,63 @@
+.createnewText p {
+    font: normal normal 600 18px/25px Source Serif Pro;
+    color: #000;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pargraphText p {
+    font: normal normal 300 13px/17px Source Serif Pro;
+    color: #000000;
+    width: 158px;
+    height: 51px;
+    text-align: center;
+}
+
+.pargraphText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65px;
+}
+
+.folderText {
+    font: normal normal 300 15px/21px Source Serif Pro;
+    color: #000;
+    margin-left: 10px;
+}
+
+.folderImg {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.folderfelxMain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin-left: 26px;
+    margin-top: 20px;
+}
+
+.filefelxMain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin-left: 26px;
+    margin-top: 10px;
+}
+
+.fileImg {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+}

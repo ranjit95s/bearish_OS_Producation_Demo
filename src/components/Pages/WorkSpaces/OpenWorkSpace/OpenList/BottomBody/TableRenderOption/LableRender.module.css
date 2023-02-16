@@ -1,0 +1,12 @@
+.squareBox {
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.lablecontainer{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}

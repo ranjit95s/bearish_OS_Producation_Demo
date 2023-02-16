@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Group_2791" data-name="Group 2791" transform="translate(-15 -611)">
+    <g id="Light_1px_person" data-name="Light 1px/person" transform="translate(15 611)">
+      <rect id="Light_1px_person_background" data-name="Light 1px/person background" width="25" height="25" fill="#fff" opacity="0"/>
+      <g id="Group" transform="translate(3.646 2.083)">
+        <path id="Vector_631_Stroke_" data-name="Vector 631 (Stroke)" d="M1.042,5.729V6.771A.521.521,0,1,1,0,6.771V5.729A5.729,5.729,0,0,1,5.729,0h6.25a5.729,5.729,0,0,1,5.729,5.729V6.771a.521.521,0,1,1-1.042,0V5.729a4.687,4.687,0,0,0-4.687-4.687H5.729A4.688,4.688,0,0,0,1.042,5.729Z" transform="translate(0 13.021)" fill="#00767b" stroke="#00767b" stroke-width="1"/>
+        <path id="Combined_Shape" data-name="Combined Shape" d="M5.209,10.417a5.208,5.208,0,1,1,5.208-5.208A5.214,5.214,0,0,1,5.209,10.417Zm0-9.375A4.167,4.167,0,1,0,9.375,5.209,4.172,4.172,0,0,0,5.209,1.042Z" transform="translate(3.646)" fill="#00767b" stroke="#00767b" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

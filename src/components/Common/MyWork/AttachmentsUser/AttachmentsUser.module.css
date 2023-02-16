@@ -1,0 +1,21 @@
+.attachmentsUserIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    color: #E9EDF2;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+
+.moreIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    color: #E9EDF2;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+}

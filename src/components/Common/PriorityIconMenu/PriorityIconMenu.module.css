@@ -1,0 +1,61 @@
+.pickericon {
+    width: 13px;
+}
+
+.inputText::placeholder {
+    font: normal normal normal 13px/21px Source Serif Pro;
+}
+
+.inputText {
+    margin-left: 10px;
+    outline: none;
+}
+
+.mainStack {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.mainContainer {
+    width: 100%;
+    min-width: 130px;
+}
+
+.priorityText {
+    font: normal normal normal 13px/21px Source Serif Pro;
+}
+
+.pickerButton {
+    cursor: pointer;
+}
+
+.addContainer {
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    flex-direction: row;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.boxaddmoreflex {
+    display: flex;
+    align-items: center;
+}
+
+.addIcon {
+    width: 13px;
+}
+
+.addTypo {
+    font: normal normal normal 13px/21px Source Serif Pro;
+    padding-left: 10px;
+}
+
+.optionBtn {
+    cursor: pointer;
+}

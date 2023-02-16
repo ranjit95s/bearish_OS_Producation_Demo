@@ -1,0 +1,13 @@
+.sideMailList {
+    max-height: 345px;
+    overflow-y: scroll;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.openMainMain {
+    font-family: Source Serif Pro;
+    width: 100%;
+    flex-direction: row;
+    gap: 10px;
+}

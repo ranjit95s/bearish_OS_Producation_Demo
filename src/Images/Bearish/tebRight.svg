@@ -1,0 +1,10 @@
+<svg data-name="Component 2308 – 7" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <rect data-name="Rectangle 4024" width="32" height="32" rx="5" style="fill:#ffffff00"/>
+    <g data-name="Light 1px/sort_ascending">
+        <path data-name="Light 1px/sort_ascending background" style="fill:#ffffff00" d="M0 0h25v25H0z" transform="translate(4 4)"/>
+        <path d="M12.038 17.02c0-.144-.077-.261-.173-.261h-4.59l.742-1.122a.363.363 0 0 0 0-.37.136.136 0 0 0-.244 0l-.792 1.2a1.089 1.089 0 0 0 0 1.109l.792 1.2a.136.136 0 0 0 .244 0 .363.363 0 0 0 0-.37l-.742-1.125h4.59c.096 0 .173-.117.173-.261z"/>
+        <path data-name="Path 13 Copy 5 (Stroke)" d="M17.542 22.23h8.333a.521.521 0 0 0 .521-.521.521.521 0 0 0-.521-.521h-8.333a.521.521 0 0 0-.521.521.521.521 0 0 0 .521.521z"/>
+        <path data-name="Path 13 Copy 6 (Stroke)" d="M17.542 15.98h5.208a.521.521 0 1 1 0 1.042h-5.208a.521.521 0 0 1 0-1.042z"/>
+        <path data-name="Path 13 Copy 7 (Stroke)" d="M17.542 10.771h2.079a.521.521 0 1 1 0 1.042h-2.079a.521.521 0 0 1 0-1.042z"/>
+    </g>
+</svg>

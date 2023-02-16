@@ -1,0 +1,26 @@
+.headerMain {
+    font-size: 15px;
+    font: normal normal normal 15px/21px Source Serif Pro;
+    font-weight: normal;
+    display: flex;
+}
+
+.headerIcon {
+    margin-right: 15px;
+}
+
+.colorPicker {
+    height: 15px;
+}
+
+.firstCelNo {
+    font: normal normal bold 18px/25px Source Serif Pro;
+}
+
+.firstCelContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+}

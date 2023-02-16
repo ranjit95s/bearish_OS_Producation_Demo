@@ -1,0 +1,38 @@
+.title {
+    font-size: 15px;
+    font-weight: 600;
+    opacity: 0.6;
+}
+
+.sendModalMain {
+    width: 225px;
+    height: 100px;
+    padding: 10px 5px 5px 5px;
+    gap: 6px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.dateAndTimeMain {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    width: 100%;
+    height: 25px;
+    margin-top: 6px;
+    justify-content: center;
+}
+
+.scheduleNow {
+    width: 115px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    opacity: 0.25;
+    background: #5EE2A0;
+    cursor: pointer;
+}

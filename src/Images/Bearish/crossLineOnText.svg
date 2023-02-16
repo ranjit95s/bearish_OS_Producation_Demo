@@ -1,0 +1,8 @@
+<svg data-name="Component 2285 – 6" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <rect data-name="Rectangle 3966" width="32" height="32" rx="5" style="fill:#ffffff00"/>
+    <g data-name="Light 1px/italics">
+        <path data-name="Light 1px/italics background" style="fill:#ffffff00" d="M0 0h25v25H0z" transform="translate(4 4)"/>
+        <text transform="translate(17 23)" style="font-size:18px;font-family:SourceSerifPro-Regular,Source Serif Pro"><tspan x="-5.976" y="0">A</tspan></text>
+        <path data-name="Vector 606 (Stroke)" d="M.889.153 19.639 18.9a.521.521 0 0 1-.737.737L.153.889A.521.521 0 0 1 .889.153z" transform="translate(6.604 6.604)" style="opacity:.5"/>
+    </g>
+</svg>

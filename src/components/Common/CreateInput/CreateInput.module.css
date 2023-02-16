@@ -1,0 +1,46 @@
+.input {
+    font-family: Source Serif Pro !important;
+    width: 100%;
+    border: none;
+    padding: 14px;
+    background: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    outline: none;
+}
+
+.mainBox {
+    display: flex;
+    align-items: center;
+    border: 2px solid white;
+    padding: 0px 10px 0px 0px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+
+
+}
+
+.inputParent {
+    width: 100%;
+    cursor: pointer;
+}
+
+.createBtn {
+    border: none;
+    background-color: #5ee2a042;
+    justify-content: center;
+    height: 30px;
+    width: 150px;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.selectBtn:focus {
+    background-color: #d7f8e7;
+}
+
+.iconbgcolor:focus {
+    background-color: #5EE2A050;
+}

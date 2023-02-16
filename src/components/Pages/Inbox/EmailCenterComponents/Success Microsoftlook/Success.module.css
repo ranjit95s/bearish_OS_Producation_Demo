@@ -1,0 +1,109 @@
+.boxStyle {
+    font-family: Source Serif Pro !important;
+    top: 33px;
+    left: 24px;
+    position: relative; /* imp */
+    width: 300px;
+    display:block;
+    height: 200px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    overflow: visible !important;
+    opacity: 1;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.boxIn {
+    width: 275px;
+    box-shadow: none;
+    margin: auto;
+    overflow:visible !important;
+}
+
+.titleStyle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px !important;
+    /* padding-bottom: 10px !important; */
+    font-weight: bold;
+    padding: 0px;
+    align-items: center;
+}
+
+.t61825 {
+    font: normal normal 600 18px/25px Source Serif Pro !important;
+    letter-spacing: 0px;
+    color: #000000 !important;
+    opacity: 1 !important;
+}
+
+.tooltip {
+    background: darkgray !important;
+    font-size: 13px !important;
+    color: white !important;
+    font-family: 'Source Serif Pro' !important;
+    opacity: 75% !important;
+    padding-bottom: 2px !important;
+    padding-top: 2px !important;
+    top: -27px !important;
+    font-weight: 100 !important;
+}
+
+.signSection {
+        /* margin-top: -10px; */
+        padding: 0px;
+        display: block;
+}
+
+.signIn {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    opacity: 1;
+    width: 100% !important;
+    background: #ffffff;
+    cursor: pointer;
+    padding: 8px !important;
+    padding-bottom: 8px !important;
+    margin-top: 18px;
+    margin-left: 0px !important;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: left !important;
+    align-items: center;
+
+    /* 61825 */
+    font: normal normal 600 18px/25px Source Serif Pro !important;
+    letter-spacing: 0px;
+    color: #000000 !important;
+    opacity: 1 !important;
+}
+
+.signOption {
+    color: #000000;
+    opacity: 0.5;
+    margin-left: 10px;
+    text-transform: none !important;
+    font: normal normal 600 15px/21px Source Serif Pro  !important;
+}
+
+.spanStyle {
+    position: absolute;
+    right: 12px;
+    padding: 0px 5px;
+    background: #5EE2A0 0% 0% no-repeat padding-box;
+    border: 1px solid #5EE2A0;
+    border-radius: 5px;
+    top: 10.5px;
+    font: normal normal 600 11px/17px Source Serif Pro  !important;
+}
+
+.info {
+    font: normal normal 300 11px/17px Source Serif Pro !important;
+    margin-top: 15px;
+    letter-spacing: 0px;
+}

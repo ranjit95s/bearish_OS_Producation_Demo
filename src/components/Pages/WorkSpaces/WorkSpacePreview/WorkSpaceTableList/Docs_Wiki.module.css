@@ -1,0 +1,12 @@
+.accodianShow {
+    display: contents;
+}
+
+.accodianHide {
+    visibility: hidden;
+}
+
+.inputContainer {
+    width: 100%;
+    position: absolute;
+}

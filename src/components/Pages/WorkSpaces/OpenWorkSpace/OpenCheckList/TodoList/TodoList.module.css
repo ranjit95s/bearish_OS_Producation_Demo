@@ -1,0 +1,101 @@
+.imagewidth img {
+    width: 25px;
+    height: 25px;
+}
+
+.imagewidth {
+    width: 175px;
+    padding: 6px 8px;
+    display: contents;
+}
+
+.flexBox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: row;
+}
+
+.mainBox {
+    width: 175px;
+    height: 35px;
+    background-color: rgba(0, 10, 255, 0.3);
+    border: 1px solid #E9EDF2;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.textsize {
+    font: normal normal normal 18px/25px Source Serif Pro;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.moreimage img {
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    margin-left: auto;
+    width: 25px;
+    height: 25px;
+}
+
+.mainflexBox {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.dateText {
+    font: normal normal 300 13px/17px Source Serif Pro;
+}
+
+.displayflexBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 25px;
+    /* justify-content: space-between; */
+    /* width: 992px; */
+}
+
+.headerimg {
+    flex-direction: row;
+    margin-left: auto;
+    gap: 56px;
+    width: 450px;
+}
+
+.rowbutton {
+    position: relative;
+    top: 50px !important;
+    width: 100px;
+}
+
+.createBtn {
+    font: normal normal normal 18px/21px Source Serif Pro;
+    width: 125px;
+    height: 40px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    background-color: #d7f8e7;
+    border-radius: 5px;
+}
+
+.buttonCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.borderBottom {
+    border-bottom: 3px solid #E9EDF2;
+    position: relative;
+    top: 100px;
+}
+
+.mainContainer{
+    max-height: 500px;
+    overflow: scroll;
+}

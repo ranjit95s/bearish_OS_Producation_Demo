@@ -1,0 +1,50 @@
+.mainBox {
+    margin-top: 15px;
+    background-color: #fff;
+    width: 279px;
+    height: 150px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.titlefont {
+    font: normal normal 300 11px/15px Source Serif Pro;
+}
+
+.description {
+    width: 198px;
+    height: 51px;
+    font: normal normal normal 13px/17px Source Serif Pro;
+    margin-top: 20px;
+}
+
+.timeboxflex {
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.timetext {
+    font: normal normal 300 11px/15px Source Serif Pro;
+    padding: 5px;
+}
+
+.mainflexbox {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.righticonfelx {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+}
+
+.menulistwidth {
+    width: 305px !important;
+    height: 275px !important;
+}

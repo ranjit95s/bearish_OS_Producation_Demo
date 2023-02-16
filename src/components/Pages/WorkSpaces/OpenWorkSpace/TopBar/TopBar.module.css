@@ -1,0 +1,67 @@
+.mainContainer {
+    border-radius: 5px;
+    height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.listName {
+    font: normal normal 600 18px/25px Source Serif Pro;
+}
+
+.squareBox {
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.rightContainer {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.shareContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.backContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.barIcon {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.shareTypo {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    color: gray;
+}
+
+.backTypo {
+    font: normal normal normal 15px/21px Source Serif Pro;
+    color: black;
+}
+
+.leftContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+}

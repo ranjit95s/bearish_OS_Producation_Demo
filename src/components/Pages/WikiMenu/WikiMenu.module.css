@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 35px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px 10px;
+}
+.headerName{
+    font: normal normal 600 15px/21px Source Serif Pro;
+    margin-left: 41px;
+}
+.closebtn{
+    margin-left: auto;
+}
+.optionTypo{
+    font: normal normal 600 15px/21px Source Serif Pro;
+}
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.optIcon{
+    margin-right: 15px;
+    width: 18px;
+    height: 18px;
+}
+.optContainer{
+    padding: 0px 10px;
+}

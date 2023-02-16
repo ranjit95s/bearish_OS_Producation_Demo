@@ -1,0 +1,16 @@
+.emailUserIcon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background: #E9EDF2 0% 0% no-repeat padding-box;
+}
+
+.line {
+    height: 10px;
+    background: #E9EDF2;
+    width: 3px;
+}

@@ -1,0 +1,26 @@
+.emailTopBarMain {
+    height: 50px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    flex-direction: row;
+}
+
+.emailTop {
+    padding: 0 15px 0 5px;
+    flex-direction: row;
+    gap: 712.5px;
+    border: 3px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.numberOfEmail{
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.buttons {
+    background-color: transparent;
+    border: none;
+}

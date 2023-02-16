@@ -1,0 +1,7 @@
+<svg id="Light_1px_profile_circled" data-name="Light 1px/profile_circled" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_profile_circled_background" data-name="Light 1px/profile_circled background" width="25" height="25" fill="#fff0" />
+  <g id="Group" transform="translate(2.083 2.083)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M10.417,20.833a10.415,10.415,0,1,1,6.832-2.553c-.068.059-.137.117-.206.174A10.434,10.434,0,0,1,10.417,20.833Zm0-6.249A6.233,6.233,0,0,0,4.86,17.968a9.3,9.3,0,0,0,5.557,1.823h.007a9.3,9.3,0,0,0,5.55-1.823A6.233,6.233,0,0,0,10.417,14.584Zm0-1.042a7.3,7.3,0,0,1,6.375,3.75,9.376,9.376,0,1,0-12.75,0A7.306,7.306,0,0,1,10.417,13.541Z" fill="#E2875E" />
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M4.166,8.333A4.167,4.167,0,1,1,8.333,4.166,4.171,4.171,0,0,1,4.166,8.333Zm0-7.292A3.125,3.125,0,1,0,7.292,4.166,3.128,3.128,0,0,0,4.166,1.042Z" transform="translate(6.25 4.167)" fill="#E2875E"/>
+  </g>
+</svg>

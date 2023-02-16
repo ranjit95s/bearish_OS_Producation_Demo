@@ -1,0 +1,26 @@
+.green_line {
+    height: 1px;
+    width: 100%;
+    background-color: #5EE2A0;
+}
+
+.header_name {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+    white-space: nowrap;
+    color: #000000;
+    padding: 1px 9px;
+}
+
+.selectedName {
+    background-color: #5EE2A060;
+    border-radius: 5px;
+}
+
+.tabsContainer {
+    overflow: scroll;
+    display: flex;
+    gap: 14px;
+}

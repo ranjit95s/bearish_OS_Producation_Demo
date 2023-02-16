@@ -1,0 +1,18 @@
+.displayflex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+}
+.mainBox {
+    width: 100%;
+    background-color: #fff;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.displayflexbutton {
+    margin-left: 20px;
+}

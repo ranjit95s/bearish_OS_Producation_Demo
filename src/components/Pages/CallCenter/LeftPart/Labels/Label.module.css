@@ -1,0 +1,13 @@
+.labelMain {
+    border: 3px solid #E9EDF2;
+    border-radius: 5px;
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+}
+
+.title {
+    font-size: 18px;
+    opacity: 0.5;
+    margin-left: 5px;
+}

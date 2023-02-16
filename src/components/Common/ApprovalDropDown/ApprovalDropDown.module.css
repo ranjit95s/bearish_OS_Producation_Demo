@@ -1,0 +1,91 @@
+.searchUserIcon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.userNameContainer {
+    box-sizing: border-box;
+    border: 1px solid #E9EDF2;
+    width: 140px;
+    height: 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    justify-content: center;
+}
+
+.userName {
+    font: normal normal normal 12px/21px Source Serif Pro;
+}
+
+.mainContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.ReqTypography {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font: normal normal normal 11px/21px Source Serif Pro;
+}
+
+
+.darkLink {
+    height: 1px;
+    background-color: #E3E3E3;
+    width: 100%;
+}
+
+.dropDownContainer {
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.UserEmail {
+    font-size: 11px;
+    margin-bottom: 11px;
+    margin-top: 5px;
+}
+
+.searchUserName {
+    font: normal normal normal 11px/21px Source Serif Pro;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100%;
+    justify-content: center;
+}
+
+.requestbtn {
+    width: 75px;
+    flex-direction: row;
+    height: 15px;
+    width: 1000%;
+    box-sizing: border-box;
+    margin-left: 33px;
+    margin-top: 17px;
+    margin-bottom: 10px;
+
+}
+
+.reqBtnTypo {
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ccffe6;
+    padding: 6px;
+    height: 6px;
+    border-radius: 5px;
+}

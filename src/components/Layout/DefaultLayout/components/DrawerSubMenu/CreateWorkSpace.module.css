@@ -1,0 +1,24 @@
+.input {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    border: none;
+    width: 95%;
+    margin-left: 5px;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.input::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.inputMain {
+    border: 2px solid #E9EDF2;
+    border-radius: 5px;
+    height: 30px;
+    justify-content: center;
+}

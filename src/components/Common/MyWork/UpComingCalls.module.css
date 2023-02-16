@@ -1,0 +1,72 @@
+.unComingCallsMain {
+    height: 590px;
+    gap: 10px;
+}
+
+.eventName {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Source Serif Pro;
+    cursor: pointer;
+}
+
+.darkLine {
+    height: 1px;
+    opacity: 0.1;
+    background-color: black;
+}
+
+.eventContent {
+    padding: 6px 5px 6px 6px;
+    background-color: #E9EDF2;
+    height: 100px;
+    gap: 5px;
+}
+
+.nameOfEvent {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 21px;
+    font-size: 17px;
+    font-family: Source Serif Pro;
+}
+
+.editEvent {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 20px;
+    font-size: 17px;
+    color: #FF0000;
+    font-family: Source Serif Pro;
+    cursor: pointer;
+}
+
+.dateTime {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 21px;
+    font-size: 17px;
+    font-family: Source Serif Pro;
+}
+
+.invitees {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 20px;
+    font-size: 17px;
+    font-family: Source Serif Pro;
+}
+
+.markAsRead {
+    font-family: Source Serif Pro;
+    font-size: 12px;
+    color: #5EE2A0;
+}
+
+.viewFull {
+    font-family: Source Serif Pro;
+    font-size: 12px;
+    color: #5EE2A0;
+}

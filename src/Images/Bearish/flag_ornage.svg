@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Priority_Box" data-name="Priority Box" transform="translate(0.5 0.5)">
+    <g id="Light_1px_chevron_double_up" data-name="Light 1px/chevron_double_up">
+      <rect id="Light_1px_chevron_double_up_background" data-name="Light 1px/chevron_double_up background" width="25" height="25" fill="#fff" opacity="0"/>
+      <g id="Light_1px_flag" data-name="Light 1px/flag">
+        <rect id="Light_1px_flag_background" data-name="Light 1px/flag background" width="25" height="25" fill="#fff" stroke="#e9edf2" stroke-width="1" opacity="0"/>
+        <path id="Combined_Shape" data-name="Combined Shape" d="M.528,20.4A.52.52,0,0,1,0,19.894V.51A.52.52,0,0,1,.528,0a.52.52,0,0,1,.527.51v.51h6.36a6.537,6.537,0,0,1,2,.314l1.217.392a6.51,6.51,0,0,0,2,.314h3.721A2.6,2.6,0,0,1,19,4.591v8.162A2.6,2.6,0,0,1,16.358,15.3H12.636a6.537,6.537,0,0,1-2-.314L9.417,14.6a6.51,6.51,0,0,0-2-.314H1.055v5.611A.519.519,0,0,1,.528,20.4ZM1.055,2.04V13.262h6.36a7.59,7.59,0,0,1,2.337.367l1.216.391a5.434,5.434,0,0,0,1.669.263h3.721a1.559,1.559,0,0,0,1.583-1.531V4.591A1.559,1.559,0,0,0,16.358,3.06H12.636A7.586,7.586,0,0,1,10.3,2.694L9.084,2.3A5.434,5.434,0,0,0,7.415,2.04Z" transform="translate(3.125 2.083)" fill="#e2875e"/>
+      </g>
+    </g>
+  </g>
+</svg>

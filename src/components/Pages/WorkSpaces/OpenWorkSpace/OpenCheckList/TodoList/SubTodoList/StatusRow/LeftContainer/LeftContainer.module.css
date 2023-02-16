@@ -1,0 +1,30 @@
+.checkimg img {
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+}
+.noteimg img {
+    width: 22px;
+    height: 22px;
+}
+.justifyimg img {
+    width: 22px;
+    height: 22px;
+    padding-left: 10px;
+}
+.listtext {
+    font: normal normal normal 18px/25px Source Serif Pro;
+    font-size: 18px;
+    padding-left: 5px;
+}
+.boxflex {
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    align-items: center;
+}
+.buttongroup {
+    display: flex;
+    flex-direction: row;
+    margin-left: 19px;
+}

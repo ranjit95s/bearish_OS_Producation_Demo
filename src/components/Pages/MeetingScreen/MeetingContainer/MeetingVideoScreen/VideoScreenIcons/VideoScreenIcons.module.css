@@ -1,0 +1,20 @@
+.iconBtn {
+    height: 50px;
+    width: 50px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.iconMain {
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    position: absolute;
+    bottom: 20px;
+    align-items: center;
+    width: 100%;
+}

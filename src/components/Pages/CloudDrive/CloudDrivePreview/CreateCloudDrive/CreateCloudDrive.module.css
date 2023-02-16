@@ -1,0 +1,43 @@
+.maincreateText {
+    background-color: #fff;
+    display: flex;
+    width: 125px;
+    height: 50px;
+    border: 2px solid #E9EDF2;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.createText {
+    font: normal normal 600 15px/21px Source Serif Pro;
+}
+
+.fileText {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    margin-left: 10px;
+}
+
+.folderText {
+    font: normal normal 600 15px/21px Source Serif Pro;
+    margin-left: 10px;
+}
+
+.mainFolderFile {
+    background-color: #fff;
+    display: flex;
+    width: 125px;
+    height: 100px;
+    border: 2px solid #E9EDF2;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.folderFile {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 100%;
+}

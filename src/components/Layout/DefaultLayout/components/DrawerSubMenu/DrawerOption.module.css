@@ -1,0 +1,33 @@
+.OptionContainer {
+    background-color: #E9EDF2;
+    width: 100%;
+}
+
+.css-wy9avh-MuiPaper-root-MuiAccordion-root {
+    background-color: transparent !important;
+}
+
+.css-1betqn-MuiAccordionSummary-content {
+    margin: 0 0 !important;
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    cursor: pointer;
+}
+
+.drawerListText {
+    font-family: Inter, sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    line-height: 25px !important;
+    white-space: nowrap !important;
+    padding: 0;
+    margin: 0;
+    color: black;
+    white-space: nowrap;
+}

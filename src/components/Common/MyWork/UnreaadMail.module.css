@@ -1,0 +1,62 @@
+.unReadMilMain {
+    height: 590px;
+    gap: 10px;
+}
+
+.emailName {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Source Serif Pro;
+}
+
+.darkLine {
+    height: 1px;
+    opacity: 0.1;
+    background-color: black;
+}
+
+.emailContent {
+    padding: 7px 0 6px 6px;
+    background-color: #E9EDF2;
+    height: 130px;
+    gap: 8px;
+}
+
+.senderEmail {
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 17px;
+    text-overflow: ellipsis;
+    height: 20px;
+    font-family: Source Serif Pro;
+}
+
+.mailSubject {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 20px;
+    font-size: 17px;
+    font-family: Source Serif Pro;
+}
+
+.mailDescription {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 42px;
+    font-size: 17px;
+    width: 283px;
+    font-family: Source Serif Pro;
+}
+
+.markAsRead {
+    font-family: Source Serif Pro;
+    font-size: 12px;
+    color: #5EE2A0;
+}
+
+.viewFull {
+    font-family: Source Serif Pro;
+    font-size: 12px;
+    color: #5EE2A0;
+}

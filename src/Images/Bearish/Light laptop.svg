@@ -1,0 +1,7 @@
+<svg id="Light_1px_laptop" data-name="Light 1px/laptop" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_laptop_background" data-name="Light 1px/laptop background" width="25" height="25" fill="#fff0"/>
+  <g id="Group" transform="translate(1.042 3.125)">
+    <path id="Vector_20_Stroke_" data-name="Vector 20 (Stroke)" d="M.521,0H22.4a.521.521,0,1,1,0,1.042H.521A.521.521,0,0,1,.521,0Z" transform="translate(0 17.188)"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M17.708,15.625H3.125A3.129,3.129,0,0,1,0,12.5V3.125A3.128,3.128,0,0,1,3.125,0H17.708a3.128,3.128,0,0,1,3.125,3.125V12.5A3.129,3.129,0,0,1,17.708,15.625ZM3.125,1.042A2.085,2.085,0,0,0,1.042,3.125V12.5a2.086,2.086,0,0,0,2.083,2.084H17.708A2.086,2.086,0,0,0,19.792,12.5V3.125a2.085,2.085,0,0,0-2.083-2.083Z" transform="translate(1.042)"/>
+  </g>
+</svg>

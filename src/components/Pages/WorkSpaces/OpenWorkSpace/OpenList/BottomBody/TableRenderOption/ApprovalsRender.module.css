@@ -1,0 +1,20 @@
+.mainContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.containerFlex {
+    display: flex;
+    align-items: center;
+}
+
+.approvIcon {
+    height: 18px;
+    margin-right: 6px;
+}
+
+.Typography {
+    font: normal normal 300 13px/15px Source Serif Pro;
+}

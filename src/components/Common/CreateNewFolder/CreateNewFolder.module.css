@@ -1,0 +1,39 @@
+.createFolderMain {
+    padding: 10px 5px;
+    border-radius: 5px;
+    gap: 10px
+}
+
+.createBtn {
+    width: 100px;
+    height: 25px;
+    background: #5EE2A0 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 0.3;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.folderInput {
+    font-family: Source Serif Pro;
+    font-size: 16px;
+    height: 30px;
+    width: 267px;
+    border: 2px solid #E9EDF2;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.folderInput:focus {
+    outline: none;
+    border: 2px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.folderInput::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 16px;
+    font-weight: 600;
+}

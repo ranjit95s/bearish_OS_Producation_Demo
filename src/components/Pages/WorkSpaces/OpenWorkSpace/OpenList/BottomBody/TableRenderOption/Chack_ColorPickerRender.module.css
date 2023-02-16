@@ -1,0 +1,16 @@
+.firstCelContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+    min-width: 100%;
+}
+
+.firstCelNo {
+    font: normal normal bold 18px/25px Source Serif Pro;
+}
+
+.colorPicker {
+    height: 15px;
+}

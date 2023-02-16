@@ -1,0 +1,13 @@
+.soonMain {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    font-family: Source Sans Pro, Regular, serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    background: #5EE2A0 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    opacity: 0.5;
+}

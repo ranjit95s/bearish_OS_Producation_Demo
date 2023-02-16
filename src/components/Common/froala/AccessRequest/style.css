@@ -1,0 +1,101 @@
+.requestSentButton {
+  display: flex;
+  width: 125px;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  margin: 0;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16), inset 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: rgba(94, 226, 160, .25);
+  cursor: pointer;
+}
+
+.requestSentButton:hover {
+  background-color: rgba(94, 226, 160, .25);
+}
+
+.requestSentButton_expand {
+  font-family: SourceSerifPro;
+  font-size: 12.5px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #252e48;
+  padding-left: 4px;
+}
+
+.shareRequestSentPopupBody {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  align-items: center;
+  justify-content: center;
+  background-color: #0008;
+  z-index: 101;
+}
+
+.requestSentPopupMain {
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0 35px;
+  align-items: center;
+  width: 303px;
+  padding: 21px 13.5px 26px 13.5px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%), inset 0 3px 6px 0 rgb(0 0 0 / 16%);
+  background-color: #fff;
+  z-index: 99;
+}
+
+.requestSentTitle {
+  font-family: SourceSansPro;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.shareRequestSentPopup {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 4px;
+  gap: 4px;
+  font-size: 13px;
+  text-align: center;
+  /* word-break: break-all; */
+  margin: 18px 0 25px 0;
+  position: relative;
+}
+
+.sharePopupRequestAcess_Input {
+  align-items: center;
+  font-size: 12px;
+  line-height: 1.33;
+  padding: 0px 10px;
+  color: rgb(33, 32, 90);
+  width: 100%;
+  margin-bottom: 15px;
+  height: 36px;
+  border-radius: 5px;
+  box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px 0px, rgb(0 0 0 / 16%) 0px 2px 4px 2px inset;
+  background-color: rgb(255, 255, 255);
+}
+
+.requestAccessForm {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

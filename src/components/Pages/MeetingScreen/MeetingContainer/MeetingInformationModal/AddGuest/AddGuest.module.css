@@ -1,0 +1,74 @@
+.addGuestMain {
+    width: 305px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E9EDF2;
+}
+
+.search {
+    font-family: Source Serif Pro, Regular, serif;
+    font-size: 15px;
+    border: none;
+    width: 85%;
+    color: black;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.search::placeholder {
+    font-family: Source Serif Pro, Regular, serif;
+    font-size: 15px;
+    color: black;
+}
+
+.title {
+    font-family: Source Serif Pro, Semibold, serif;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 13px;
+    color: black;
+}
+
+.userIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E9EDF2;;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: black;
+}
+
+.columnMain {
+    flex-direction: row;
+    gap: 5px;
+    width: 275px;
+    margin-left: 8px;
+}
+
+.email {
+    width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: black;
+    font-size: 11px;
+}
+
+.name {
+    width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: black;
+}
+
+.listMain {
+    height: 200px;
+    overflow-y: scroll;
+    gap: 10px;
+}

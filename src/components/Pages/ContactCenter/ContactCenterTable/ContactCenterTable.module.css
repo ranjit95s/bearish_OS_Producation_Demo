@@ -1,0 +1,30 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1126px;
+  box-sizing: border-box;
+}
+
+.tableHeading {
+  border-radius: 5px 5px 0 0;
+  background-color: #E9EDF2;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  max-height: 51px;
+  max-width: 1126px;
+  box-sizing: border-box;
+}
+
+.tableHeaderCheckbox {
+  width: 51px;
+  box-sizing: border-box;
+}
+
+.tableBody {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-color: #E9EDF2;
+}

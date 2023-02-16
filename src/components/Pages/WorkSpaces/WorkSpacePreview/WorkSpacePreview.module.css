@@ -1,0 +1,62 @@
+.tbaleParent {
+    width: 100%;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.table {
+    width: 100%;
+    min-width: 100%;
+    border-collapse: separate !important;
+    border-spacing: 0px 20px !important;
+    position: relative;
+}
+
+.tableHead {
+    padding: 0px !important;
+    background-color: white;
+    box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%) !important;
+    border-top-left-radius: 5px;
+    border-radius: 5px;
+}
+
+.tableHeadCell {
+    font-family: Source Serif Pro !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    white-space: nowrap;
+    color: #000000;
+    padding: 4px 13px !important;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.tableHeadCell:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.tableHeadCell:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.headIcon {
+    width: 21px;
+    margin-right: 12.8px;
+    height: 21px;
+    vertical-align: text-top;
+}
+
+.headText {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.Checkbox {
+    vertical-align: middle;
+}

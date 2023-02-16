@@ -1,0 +1,47 @@
+.dateText {
+    font: normal normal 300 13px/17px Source Serif Pro;
+    position: absolute;
+    top: 185px;
+}
+
+.listflex {
+    display: flex;
+    align-items: center;
+}
+
+.mainflexbox {
+    display: flex;
+    flex-direction: row;
+    gap: 56px;
+    width: 400px;
+    align-items: center;
+    overflow: scroll;
+}
+
+.roundedtext {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    margin-right: 10px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.subroundedtext {
+    font: normal normal 300 11px/15px Source Serif Pro;
+    color: #000000;
+    text-align: center;
+    padding: 6px 4px;
+}
+
+.dispalynone:first-child{
+    display: block;
+}
+.dispalynone {
+    display: none;
+}

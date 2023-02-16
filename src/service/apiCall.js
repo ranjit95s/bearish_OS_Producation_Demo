@@ -1,0 +1,3 @@
+export default function getAuthHeaders() {
+    return 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MzZkZmJiNmU0YTVmODQwODQxOTVjY2QiLCJpYXQiOjE2NzUzMzc1MjEsImV4cCI6MTY3NTQyMzkyMX0.VqGMfTt3ueoLUbOCTRTwPD4xWziC0d4xolbXU50V6VI'
+}

@@ -1,0 +1,15 @@
+.colorCodeBox {
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #E9EDF2;
+}
+
+.colorCodePicker{
+    position: absolute;
+    border-radius: 5px;
+    z-index: 1;
+    background: #FFFFFF;
+    border: 1px solid #E9EDF2;
+    padding: 5px;
+    gap: 10px;
+}

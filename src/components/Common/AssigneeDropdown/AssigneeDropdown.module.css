@@ -1,0 +1,116 @@
+.selectView {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.selectTab {
+    cursor: pointer;
+    opacity: 0.5;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    justify-content: end;
+}
+
+.dropdown {
+    position: absolute;
+    width: 133px;
+    align-items: center;
+    height: 120px;
+    z-index: 10;
+    margin-top: 33px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.priorityItem {
+    justify-content: space-between;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.selectName {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 20px;
+    overflow: hidden;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.assignToSearch {
+    width: 86%;
+    height: 21px;
+    font: normal normal 600 15px/21px Source Serif Pro;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+}
+
+.assignToSearch::placeholder {
+    font: normal normal 600 19px/21px Source Serif Pro;
+    font-size: 15px;
+}
+
+.searchConatiner {
+    margin-bottom: 10px;
+}
+
+.searchUserIcon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.searchUserName {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100%;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.assignNowBtn {
+    width: 75px;
+    height: 15px;
+    font-size: 11px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #5EE2A0;
+    opacity: 0.4;
+}
+
+.serchIcon {
+    width: 25px;
+    height: 25px;
+}
+
+.UserEmail {
+    font-size: 11px;
+    margin-bottom: 11px;
+    margin-top: 5px;
+}
+
+.rightSideContainer {
+    margin-left: 7px;
+}
+
+.dropDownContainer {
+    cursor: pointer;
+}
+
+.selectedText {
+    margin-right: auto;
+    font: normal normal 500 15px/21px Source Serif Pro;
+    margin-left: 10px;
+}

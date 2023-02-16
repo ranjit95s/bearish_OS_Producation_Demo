@@ -1,0 +1,171 @@
+.toDayAddTask {
+    max-height: 600px;
+    overflow-y: scroll;
+    padding: 20px 13px 7px 23px;
+    font-family: Source Serif Pro;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+}
+
+.squareBox {
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nameYourTask {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    border: none;
+    opacity: 0.5;
+}
+
+.nameYourTask:focus {
+    outline: none;
+}
+
+.nameYourTask::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 18px;
+    opacity: 0.5;
+}
+
+.selectTab {
+    width: 133px;
+    height: 30px;
+    align-items: center;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    cursor: pointer;
+    /*opacity: 0.5;*/
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.detailsOfTheTask {
+    resize: none;
+    margin-top: 17px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Source Serif Pro;
+}
+
+.detailsOfTheTask::placeholder {
+    font-size: 18px;
+    font-family: Source Serif Pro;
+    opacity: 0.5;
+}
+
+.detailsOfTheTask:focus {
+    outline: none !important;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.addOptions {
+    opacity: 0.6;
+    margin-top: 5px;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.checkListLabel {
+    flex-direction: row;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.createBtn {
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: #d7f8e7;
+    border-radius: 5px;
+}
+
+.selectView {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.selectName {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 20px;
+    overflow: hidden;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.reportMain {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.dueMain {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.assignedMain {
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.dueOnMain {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.onMain {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.statusMain {
+    width: 100%;
+    flex-direction: row;
+    gap: 6px;
+    align-items: center;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.dueOnMain {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.onMain {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.muiDatePicker {
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+<svg id="Light_1px_group" data-name="Light 1px/group" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Light_1px_group_background" data-name="Light 1px/group background" width="25" height="25" fill="#fff" opacity="0"/>
+  <g id="Group" transform="translate(2.604 3.125)">
+    <path id="Subtract" d="M4.518,4.688V6.771a.521.521,0,1,0,1.042,0V4.688A4.688,4.688,0,0,0,.872,0H0A5.762,5.762,0,0,1,1.132,1.051,3.646,3.646,0,0,1,4.518,4.688Z" transform="translate(14.232 10.938)" fill="#fff"/>
+    <path id="Vector_631_Stroke_" data-name="Vector 631 (Stroke)" d="M1.042,4.688V6.771A.521.521,0,1,1,0,6.771V4.688A4.688,4.688,0,0,1,4.688,0h6.25a4.687,4.687,0,0,1,4.687,4.688V6.771a.521.521,0,1,1-1.042,0V4.688a3.646,3.646,0,0,0-3.646-3.646H4.688A3.646,3.646,0,0,0,1.042,4.688Z" transform="translate(0 10.938)" fill="#fff"/>
+    <path id="Subtract-2" data-name="Subtract" d="M4.037,4.167A3.125,3.125,0,0,0,.913,1.042,5.239,5.239,0,0,0,0,.1,4.167,4.167,0,1,1,0,8.233a5.239,5.239,0,0,0,.913-.942A3.125,3.125,0,0,0,4.037,4.167Z" transform="translate(11.067)" fill="#fff"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M4.166,8.333A4.167,4.167,0,1,1,8.333,4.166,4.171,4.171,0,0,1,4.166,8.333Zm0-7.292A3.125,3.125,0,1,0,7.292,4.166,3.128,3.128,0,0,0,4.166,1.042Z" transform="translate(3.646 0)" fill="#fff"/>
+  </g>
+</svg>

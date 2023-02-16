@@ -1,0 +1,71 @@
+.selectView {
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+}
+
+.selectTab {
+    cursor: pointer;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dropdown {
+    z-index: 10;
+    width: 305px;
+    height: 275px;
+    gap: 18px;
+    overflow: scroll;
+    border: 1px solid #E9EDF2;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.search {
+    font-family: Source Serif Pro;
+    font-size: 15px;
+    border: none;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.search::placeholder {
+    font-family: Source Serif Pro;
+    font-size: 15px;
+}
+
+.searchUserIcon {
+    width: 40px;
+    height: 40px;
+    font-weight: 500;
+    border-radius: 50%;
+    border: 1px solid #E9EDF2;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchUserList {
+    padding: 0 22px 5px 8px;
+    height: 100%;
+    overflow: scroll;
+}
+
+.searchItem {
+    flex-direction: row;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.selectName {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 20px;
+    overflow: hidden;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
